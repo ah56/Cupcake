@@ -1,0 +1,16 @@
+.flashy{
+  color: red;
+}
+
+.bold{
+  color: pink;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.best{
+  font-size: 35px;
+  font-family: serif;
+  line-height: 75px;
+  
+}
